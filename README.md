@@ -1,6 +1,6 @@
 # The Goldilocks Work Repository
 
-![](Pic/GULDLOK_logo.png){width="556"}
+![](Pic/GULDLOK_logo.png)
 
 The `Goldilocks Work` repository is used by the Goldilocks Work group for sharing R codes for evaluating Goldilocks interventions.
 
